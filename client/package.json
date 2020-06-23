@@ -32,5 +32,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "https://murmuring-depths-62107.herokuapp.com/"
 }
